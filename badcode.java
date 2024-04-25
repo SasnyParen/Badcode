@@ -20,6 +20,6 @@ public class BadCode {
             System.out.println(num);
         }
 
-        // Различные другие операции и логика
+    
     }
 }
